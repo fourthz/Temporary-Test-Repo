@@ -9,3 +9,7 @@ In this document we are going to make some comparisons.
 ### Introduction
 
 I'm going to make comparisons.
+
+### The Analysis
+
+Here is where I made those comparisons.
